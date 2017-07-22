@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InputTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InputTest.cs" Line="46" Column="1" />
+      <File FileName="Assets/Scripts/UGUIImagePlus.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/UGUIText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UGUIOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUILabel.cs" Line="14" Column="4" />
+      <File FileName="Assets/Scripts/GUI1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HelloWorld.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Hit.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FreeCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Test.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Text1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BallPrefabScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TouchTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
