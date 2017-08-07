@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\GUI and transform\UGUIText.cs" />
      <Compile Include="Assets\Scripts\Rigid\CameraZoom.cs" />
      <Compile Include="Assets\Scripts\Rigid\Rig.cs" />
+     <Compile Include="Assets\Scripts\Thread\NewBehaviourScript.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>

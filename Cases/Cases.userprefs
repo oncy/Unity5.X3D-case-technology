@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/shiqu/Shiqu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Thread/NewBehaviourScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/shiqu/Shiqu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Thread/NewBehaviourScript.cs" Line="15" Column="1" />
       <File FileName="Assets/Scripts/Rigid/CameraZoom.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Rigid/Rig.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GUI and transform/InputTest.cs" Line="1" Column="1" />
